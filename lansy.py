@@ -24,7 +24,7 @@ def wishme():
     else:
         speak("good evening")
 
-    speak("HI i am Sansi please telme how can i help you")
+    speak("HI i am Lansy please telme how can i help you")
 
 
 
