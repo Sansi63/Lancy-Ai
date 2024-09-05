@@ -1,4 +1,4 @@
-from jarvis import *
+from lansy import *
 import requests
 
 def get_train_details(train_type, source_station, destination_station):
