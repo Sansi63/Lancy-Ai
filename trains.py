@@ -71,10 +71,10 @@ if __name__ == "__main__":
     speak("Please tell me the type of train, for example, Shatabdi or Rajdhani.")
     train_type = takecommand()
 
-    speak("Please tell me the source station.")
+    speak("Please tell me the source station code .")
     source_station = takecommand().upper()
 
-    speak("Please tell me the destination station.")
+    speak("Please tell me the destination station code .")
     destination_station = takecommand().upper()
 
     # Fetch train details based on the input
